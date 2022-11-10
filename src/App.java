@@ -11,5 +11,5 @@ public class App {
             } else {
                 System.out.println("普通矩形");
             }
-    }
+
 }
