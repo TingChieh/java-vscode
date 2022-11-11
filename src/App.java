@@ -2,13 +2,11 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        String num = input.next();
-        do {
-            System.out.println("测试");
-            System.out.print("是否合格？(Y/N)");
-            num = input.next();
-        } while (!"Y" .equals(num));
-        System.out.println("完成！");
+        int sum = 0;
+        for(int a = 0; a <= 100;a = a+2) {
+            if (a%2 == 0)
+            sum+=a;
+            System.out.println("for循环相加"+sum);
+        }
     }
 }
