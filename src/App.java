@@ -2,14 +2,16 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
-        // Scanner input = new Scanner(System.in);
-        //     int wsc = input.nextInt();
-        //     int wcg = input.nextInt();
-        //     int abc = wsc*wcg;
-        //     if (abc==888) {
-        //         System.out.println("该四边形为发财矩形");
-        //     } else {
-        //         System.out.println("普通矩形");
-        //     }
+        Scanner input = new Scanner(System.in);
+        System.out.println("是否合格？（Y/N）");
+        String answer = input.next();
+        while ("N".equals(answer)) {
+            System.out.println("上午学习");
+            System.out.println("下午学习");
+            System.out.println("合格了吗？");
+            answer = input.next();
+        }
+        System.out.println("恭喜完成！");
 
+    }
 }
