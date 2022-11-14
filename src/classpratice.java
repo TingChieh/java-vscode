@@ -5,7 +5,7 @@ public class classpratice {
         for(double a = 0;a <= 20;a++) {
             if (a%5!=0 & a%3!=0) sum += a;
             if (sum > 100)break;
-            System.out.println(sum);
+            System.out.print(sum);
         }
         System.out.println("\n"+sum);
     }
