@@ -7,7 +7,6 @@ public class netclass {
             int num = input.nextInt();
             for (int i = 0 , j = num; i <= num; i++ , j--) {
                 System.out.println(i+"+"+j+"="+(i+j));
-                //test
             }
         }
     }
