@@ -1,10 +1,13 @@
 public class classpratice {
     public static void main(String[] args) {
-        int year = 2006;
-        double a = 8;
-        for (a = 8;a <= 20; year++) {
-            a = a * (1 + 0.25);
+        double sum = 0;
+        //1-20的累加
+        for(double a = 1;a <= 20;a++) {
+            if (a%5==0 || a%3==0) {
+            }else{
+                sum = sum + a;
+            }
         }
-        System.out.println("到"+year+"年人数达到20w人");
+        System.out.println(sum);
     }
 }
