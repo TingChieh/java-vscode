@@ -1,15 +1,10 @@
 public class classpratice {
     public static void main(String[] args) {
-        System.out.println("摄氏度为 华摄氏度");
-        int i = 0;
-        double tempor = 0,tem = 0;
-        do {
-                i++;
-                tem += 20;
-                System.out.println(tem + "\t" + tempor);
-                tempor = tem * 9 / 5 + 32;
-                System.out.println(i);
-        } while ( i < 10 && tem < 250);
-        System.out.println("程序结束！");
+        for(int i=1;i<=9;i++) {
+            for(int j=1;j<=i;j++) {
+                System.out.print(j+"×"+i+"="+i*j+"\t");// \t 跳到下一个TAB位置
+            }
+            System.out.println();
+        }
     }
 }
