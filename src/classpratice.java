@@ -1,10 +1,17 @@
+import java.util.Scanner;
+
 public class classpratice {
     public static void main(String[] args) {
-        for(int i=1;i<=9;i++) {
-            for(int j=1;j<=i;j++) {
-                System.out.print(j+"×"+i+"="+i*j+"\t");// \t 跳到下一个TAB位置
+        try (Scanner input = new Scanner(System.in)) {
+            System.out.println("请输出一个四位数");
+            int num = input.nextInt();
+            int fan;
+            System.out.println("反转后的四位数是");
+            while (num != 0) {
+                fan = num % 10;
+                System.out.print(fan);
+                num = num / 10;
             }
-            System.out.println();
         }
     }
 }
