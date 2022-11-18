@@ -8,13 +8,13 @@ public class test2 {
             System.out.println("营销额为:" + a + "美元");
             if (a > 1) {
                 if (a <= 5000) {
-                    System.out.println("提成8%");
+                    System.out.println("提成为"+a*0.08);
                 }
                 if ((a > 5000) && (a <= 10000)) {
-                    System.out.println("提成10%");
+                    System.out.println("提成为"+a*0.1);
                 }
                 if (a > 10000)
-                    System.out.println("提成12%");
+                    System.out.println("提成为"+a*0.12);
             }
         }
     }
