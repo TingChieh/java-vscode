@@ -15,7 +15,6 @@
         "**/test/test-projects/**"
     ],
     "java.project.sourcePaths": [
-        "src/11.18",
         "src"
     ]
 }

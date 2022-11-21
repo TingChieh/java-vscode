@@ -1,3 +1,5 @@
+package date20221118;
+
 import java.util.Scanner;
 
 public class test1 {

@@ -1,3 +1,5 @@
+package date20221118;
+
 public class test3 {
     public static void main(String[] args) {
         int a, b, out = 0, sum = 0;
