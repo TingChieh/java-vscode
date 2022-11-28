@@ -1,0 +1,322 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch demo02",
+            "request": "launch",
+            "mainClass": "schoolOJ.demo02",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 求出4家店最低的手机价格",
+            "request": "launch",
+            "mainClass": "domyself20221125.求出4家店最低的手机价格",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1034",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1034",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1033",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1033",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1032",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1032",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1029",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1029",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1028",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1028",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1027",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1027",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1026",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1026",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1025",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1025",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch testmain",
+            "request": "launch",
+            "mainClass": "testmain",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 求最大小值",
+            "request": "launch",
+            "mainClass": "domyself20221125.求最大小值",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 购物金额结算",
+            "request": "launch",
+            "mainClass": "domyself20221125.购物金额结算",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "before.App",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch classpratice",
+            "request": "launch",
+            "mainClass": "before.classpratice",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch netclass",
+            "request": "launch",
+            "mainClass": "before.netclass",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 课堂dowhile",
+            "request": "launch",
+            "mainClass": "before.课堂dowhile",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 课堂for",
+            "request": "launch",
+            "mainClass": "before.课堂for",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 课堂while",
+            "request": "launch",
+            "mainClass": "before.课堂while",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test1",
+            "request": "launch",
+            "mainClass": "date20221118.test1",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test2",
+            "request": "launch",
+            "mainClass": "date20221118.test2",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test3",
+            "request": "launch",
+            "mainClass": "date20221118.test3",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test4",
+            "request": "launch",
+            "mainClass": "date20221118.test4",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test1(1)",
+            "request": "launch",
+            "mainClass": "date20221122.test1",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test2(1)",
+            "request": "launch",
+            "mainClass": "date20221122.test2",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test3(1)",
+            "request": "launch",
+            "mainClass": "date20221122.test3",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test4(1)",
+            "request": "launch",
+            "mainClass": "date20221122.test4",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test5",
+            "request": "launch",
+            "mainClass": "date20221122.test5",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test6",
+            "request": "launch",
+            "mainClass": "date20221122.test6",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test1(2)",
+            "request": "launch",
+            "mainClass": "date20221125.test1",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test201121地球自转",
+            "request": "launch",
+            "mainClass": "domyself20221121.test201121地球自转",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test201121输出图形平行四边形",
+            "request": "launch",
+            "mainClass": "domyself20221121.test201121输出图形平行四边形",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 九九乘法表",
+            "request": "launch",
+            "mainClass": "domyself20221121.九九乘法表",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 等边三角形",
+            "request": "launch",
+            "mainClass": "domyself20221121.等边三角形",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 输入5门课成绩并计算平均分",
+            "request": "launch",
+            "mainClass": "domyself20221121.输入5门课成绩并计算平均分",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 输出数字三角形",
+            "request": "launch",
+            "mainClass": "domyself20221121.输出数字三角形",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch break运用",
+            "request": "launch",
+            "mainClass": "domyself20221122.break运用",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch continue练习1至10的偶数和",
+            "request": "launch",
+            "mainClass": "domyself20221122.continue练习1至10的偶数和",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch continue练习算80分以上的人数",
+            "request": "launch",
+            "mainClass": "domyself20221122.continue练习算80分以上的人数",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 根据键盘输出周几",
+            "request": "launch",
+            "mainClass": "domyself20221122.根据键盘输出周几",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test1(3)",
+            "request": "launch",
+            "mainClass": "domyself20221123.test1",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 数组",
+            "request": "launch",
+            "mainClass": "domyself20221123.数组",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 数组练习猜数游戏",
+            "request": "launch",
+            "mainClass": "domyself20221125.数组练习猜数游戏",
+            "projectName": "java-vscode_7a87afb7"
+        }
+    ]
+}

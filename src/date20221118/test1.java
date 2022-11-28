@@ -24,7 +24,7 @@ public class test1 {
                 }
             }
             for (int i=0;i<3;i++){
-                System.out.println(List);
+                System.out.println(List[i]);
             }
         }
     }
