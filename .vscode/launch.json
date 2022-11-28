@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 数组中插入元素",
+            "request": "launch",
+            "mainClass": "domyself20221128.数组中插入元素",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch demo02",
             "request": "launch",
             "mainClass": "schoolOJ.demo02",
