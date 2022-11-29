@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 冒泡排序",
+            "request": "launch",
+            "mainClass": "domyself20221129.冒泡排序",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo1",
+            "request": "launch",
+            "mainClass": "domyself20221129.demo1",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch 数组中插入元素",
             "request": "launch",
             "mainClass": "domyself20221128.数组中插入元素",
