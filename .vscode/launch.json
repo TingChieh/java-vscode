@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch demo2",
+            "request": "launch",
+            "mainClass": "date20221202.demo2",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo1$Main",
+            "request": "launch",
+            "mainClass": "date20221202.demo1$Main",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo1",
+            "request": "launch",
+            "mainClass": "date20221202.demo1",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo1$Main",
+            "request": "launch",
+            "mainClass": "date20221129.demo1$Main",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo1",
+            "request": "launch",
+            "mainClass": "date20221129.demo1",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch 冒泡排序",
             "request": "launch",
             "mainClass": "domyself20221129.冒泡排序",
