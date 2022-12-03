@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch oj1041",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1041",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch demo2",
             "request": "launch",
             "mainClass": "date20221202.demo2",
