@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch oj1040",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1040",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1039",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1039",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1038",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1038",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1037",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1037",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1036",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1036",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1035",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1035",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch oj1041",
             "request": "launch",
             "mainClass": "schoolOJ.oj1041",
