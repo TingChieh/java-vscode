@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Arrays类",
+            "request": "launch",
+            "mainClass": "domyself.domyself20221205.Arrays类",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch oj1040",
             "request": "launch",
             "mainClass": "schoolOJ.oj1040",
