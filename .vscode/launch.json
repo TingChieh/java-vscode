@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 两个求和方法的重载3",
+            "request": "launch",
+            "mainClass": "learning.date20221208.两个求和方法的重载3",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch kechengshijian",
+            "request": "launch",
+            "mainClass": "learning.date20221208.kechengshijian",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "learning.date20221208.Student",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch demo1",
             "request": "launch",
             "mainClass": "learning.date20221206.demo1",
