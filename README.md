@@ -1,8 +1,8 @@
 这是个人学习 Java 的仓库
 学习代码都在 /src
-domyself 自学看的网课
-learning 听老师上课
-schoolOJ 校园 OJ 刷题的
+自学看的网课 /domyself 
+听老师上课 /learning 
+校园 OJ 刷题的/schoolOJ 
 
 下面是自带的
 ## Getting Started
