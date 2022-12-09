@@ -4,8 +4,8 @@ public class Student {
     // 1. 属性——成员变量
     // 访问权限 类型 名字 值
     // 姓名(String) 年龄(int) 学号(String)
-    static String name;
-    static int age;
+    static String name;// 实例变量
+    static int age;// 类变量
     String id;
     int s1 = 0;
 
@@ -19,14 +19,14 @@ public class Student {
     }
 
     // public void Product() {
-    //     // 商品类 Product
-    //     // 属性：名字（String name）、价格（double price）、编号(String id)、重量(double weight)
-    //     // 行为：加价（Raise）有一个整型形参，计算并输出商品加价后的价格
-    //     // 打折(Discount)有一个double类型的形参表示折扣，计算并返回商品打折后的价格
-    //     // 权限 返回值类型 名字（参数列表）
-    //     String name, id;
-    //     double price, weight, raise;
-    //     int Discount;
+    // // 商品类 Product
+    // // 属性：名字（String name）、价格（double price）、编号(String id)、重量(double weight)
+    // // 行为：加价（Raise）有一个整型形参，计算并输出商品加价后的价格
+    // // 打折(Discount)有一个double类型的形参表示折扣，计算并返回商品打折后的价格
+    // // 权限 返回值类型 名字（参数列表）
+    // String name, id;
+    // double price, weight, raise;
+    // int Discount;
     // }
 
     public boolean Eat() {

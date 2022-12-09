@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TV",
+            "request": "launch",
+            "mainClass": "learning.date20221209.TV",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book",
+            "request": "launch",
+            "mainClass": "learning.date20221209.Book",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Product",
+            "request": "launch",
+            "mainClass": "learning.date20221209.Product",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Product1",
+            "request": "launch",
+            "mainClass": "learning.date20221209.Product1",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 编写商品类3",
+            "request": "launch",
+            "mainClass": "learning.date20221209.编写商品类3",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 编写员工类3",
+            "request": "launch",
+            "mainClass": "learning.date20221209.编写员工类3",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Employee",
+            "request": "launch",
+            "mainClass": "learning.date20221209.Employee",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rectangle",
+            "request": "launch",
+            "mainClass": "learning.date20221209.Rectangle",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 两个求和方法的重载2",
+            "request": "launch",
+            "mainClass": "learning.date20221209.两个求和方法的重载2",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MountainStu",
+            "request": "launch",
+            "mainClass": "learning.date20221209.MountainStu",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 编写员工类2",
+            "request": "launch",
+            "mainClass": "learning.date20221209.编写员工类2",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch new1",
+            "request": "launch",
+            "mainClass": "learning.date20221209.new1",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch 两个求和方法的重载3",
             "request": "launch",
             "mainClass": "learning.date20221208.两个求和方法的重载3",
