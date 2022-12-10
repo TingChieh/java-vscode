@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "domyself.domyself20221209.Arrays",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch TV",
             "request": "launch",
             "mainClass": "learning.date20221209.TV",
