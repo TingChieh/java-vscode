@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArraysSortChar",
+            "request": "launch",
+            "mainClass": "domyself.domyself20221209.ArraysSortChar",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arraysmethods",
+            "request": "launch",
+            "mainClass": "domyself.domyself20221209.Arraysmethods",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch 冒泡排序",
+            "request": "launch",
+            "mainClass": "domyself.domyself20221129.冒泡排序",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "before.Main",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch Arrays",
             "request": "launch",
             "mainClass": "domyself.domyself20221209.Arrays",
