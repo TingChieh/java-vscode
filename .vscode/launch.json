@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch oj1043",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1043",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1042",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1042",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassScoreTotal",
+            "request": "launch",
+            "mainClass": "domyself.domyself20221216.ClassScoreTotal",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch ArraysSortChar",
             "request": "launch",
             "mainClass": "domyself.domyself20221209.ArraysSortChar",
