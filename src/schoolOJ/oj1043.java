@@ -14,5 +14,6 @@ public class oj1043 {
             s = (n % 2) + s;
         }
         System.out.println(s);
+        input.close();
     }
 }
