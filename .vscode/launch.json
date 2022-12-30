@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "learning.date20221223.Student",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch A",
+            "request": "launch",
+            "mainClass": "learning.date20221223.A",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringTest1",
+            "request": "launch",
+            "mainClass": "learning.date20221223.StringTest1",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "learning.date20221223.test",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass",
+            "request": "launch",
+            "mainClass": "domyself.domyself20221221.MainClass",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1150",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1150",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1047",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1047",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1045",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1045",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1044",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1044",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch oj1043",
             "request": "launch",
             "mainClass": "schoolOJ.oj1043",

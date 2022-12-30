@@ -2,7 +2,7 @@ package schoolOJ;
 
 import java.util.Scanner;
 
-public class oj1150 {
+public class oj1047 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
