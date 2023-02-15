@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TestZhaZhiJi",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230215.TestZhaZhiJi",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test1",
+            "request": "launch",
+            "mainClass": "test1",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestAdmin",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230215.TestAdmin",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestVisitor",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230215.TestVisitor",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch Account",
             "request": "launch",
             "mainClass": "learning.date20230214.Account",
