@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Var",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230216.Var",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calc",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230216.Calc",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestModifyStu",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230216.TestModifyStu",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestModifyStu",
+            "request": "launch",
+            "mainClass": "TestModifyStu",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestStudentMgr",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230216.TestStudentMgr",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch TestZhaZhiJi",
             "request": "launch",
             "mainClass": "domyself.domyself20230215.TestZhaZhiJi",
