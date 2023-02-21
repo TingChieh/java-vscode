@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Son",
+            "request": "launch",
+            "mainClass": "learning.date20230217.Son",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230220.Test",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestPerson",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230220.oop3.TestPerson",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestVoter",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230220.oop3.TestVoter",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestEllise",
+            "request": "launch",
+            "mainClass": "learning.date20230217.TestEllise",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestCircle",
+            "request": "launch",
+            "mainClass": "learning.date20230217.TestCircle",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Circle",
+            "request": "launch",
+            "mainClass": "learning.date20230217.Circle",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch Var",
             "request": "launch",
             "mainClass": "domyself.domyself20230216.Var",
