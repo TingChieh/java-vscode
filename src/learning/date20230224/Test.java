@@ -19,7 +19,7 @@ public class Test {
         // s.talk();// 4.向下转型对象 s 调用重写方法时，调用的是子类的方法
         Person p = new Student();// 1.该父类变量 p 目前引用的必须是子类对象
         if (p instanceof Student) {
-            Student s = (Student) p;// 2.必须使用强制类型转换
+            // Student s = (Student) p;// 2.必须使用强制类型转换
             System.out.println("匹配");
         } else {
             System.out.println("不匹配");
