@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "猜数字",
+            "request": "launch",
+            "mainClass": "learning.date20230303.猜数字",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "TestMath",
+            "request": "launch",
+            "mainClass": "learning.date20230303.TestMath",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "learning.date20230303.Person",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "Launch Rectangle",
             "request": "launch",
             "mainClass": "learning.date20230228p1.Rectangle",
