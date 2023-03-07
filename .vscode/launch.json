@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FridayThe13thCounter",
+            "request": "launch",
+            "mainClass": "learning.date20230307.FridayThe13thCounter",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Friday13th",
+            "request": "launch",
+            "mainClass": "learning.date20230307.Friday13th",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "BlackFridayCalculator",
+            "request": "launch",
+            "mainClass": "learning.date20230307.BlackFridayCalculator",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "BlackFridayCounter",
+            "request": "launch",
+            "mainClass": "learning.date20230307.BlackFridayCounter",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "DateDiff",
             "request": "launch",
             "mainClass": "learning.date20230307.DateDiff",
