@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DateDiff",
+            "request": "launch",
+            "mainClass": "learning.date20230307.DateDiff",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "TestDate",
+            "request": "launch",
+            "mainClass": "learning.date20230307.TestDate",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "SymmetricString",
+            "request": "launch",
+            "mainClass": "learning.date20230307.SymmetricString",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "StringBufferTest",
+            "request": "launch",
+            "mainClass": "learning.date20230307.StringBufferTest",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "learning.date20230307.Main",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "ConvertUpMoney",
+            "request": "launch",
+            "mainClass": "learning.date20230307.ConvertUpMoney",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
+            "name": "ConvertMoneyToUpperCase",
+            "request": "launch",
+            "mainClass": "learning.date20230307.ConvertMoneyToUpperCase",
+            "projectName": "java-vscode_7a87afb7"
+        },
+        {
+            "type": "java",
             "name": "猜数字",
             "request": "launch",
             "mainClass": "learning.date20230303.猜数字",
