@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayListDemo",
+            "request": "launch",
+            "mainClass": "learning.date20230310.ArrayListDemo",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "TestCollection",
+            "request": "launch",
+            "mainClass": "learning.date20230310.TestCollection",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "TestStudent",
+            "request": "launch",
+            "mainClass": "learning.date20230310.TestStudent",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
             "name": "FridayThe13thCounter",
             "request": "launch",
             "mainClass": "learning.date20230307.FridayThe13thCounter",
