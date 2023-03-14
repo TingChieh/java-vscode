@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "learning.date20230314.Main",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "TestHash",
+            "request": "launch",
+            "mainClass": "learning.date20230314.TestHash",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "test2",
+            "request": "launch",
+            "mainClass": "learning.date20230314.test2",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "T",
+            "request": "launch",
+            "mainClass": "learning.date20230314.T",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "testLinkedlist",
+            "request": "launch",
+            "mainClass": "learning.date20230314.testLinkedlist",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "learning.date20230314.test",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "StudentBizTest",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230311.StudentBizTest",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "ttest",
+            "request": "launch",
+            "mainClass": "ttest",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
             "name": "ArrayListDemo",
             "request": "launch",
             "mainClass": "learning.date20230310.ArrayListDemo",
