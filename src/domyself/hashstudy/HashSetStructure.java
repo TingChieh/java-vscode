@@ -1,4 +1,4 @@
-package domyself.domyself20230314;
+package domyself.hashstudy;
 
 @SuppressWarnings({ "all" })
 public class HashSetStructure {

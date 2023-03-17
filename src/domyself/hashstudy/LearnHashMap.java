@@ -1,4 +1,4 @@
-package domyself.domyself20230314;
+package domyself.hashstudy;
 
 import java.util.HashSet;
 

@@ -40,4 +40,13 @@ public class NoStudent {
 		this.address = address;
 	}
 
+	@Override
+	public String toString() {
+		return "NoStudent{" +
+				"no='" + no + '\'' +
+				", name='" + name + '\'' +
+				", age=" + age +
+				", address='" + address + '\'' +
+				'}';
+	}
 }

@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "T",
+            "request": "launch",
+            "mainClass": "learning.date20230317.T",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "LinkedHashSetSource",
+            "request": "launch",
+            "mainClass": "domyself.HashStudy.LinkedHashSetSource",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "learning.date20230317.Student",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "HashSetExercise",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230316.HashSetExercise",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "HashSource",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230314.HashSource",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "HashSetStructure",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230314.HashSetStructure",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "LearnHashMap",
+            "request": "launch",
+            "mainClass": "domyself.domyself20230314.LearnHashMap",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "learning.date20230314.Main",
