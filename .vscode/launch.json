@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "oj1048",
+            "request": "launch",
+            "mainClass": "schoolOJ.oj1048",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "MapExercise",
+            "request": "launch",
+            "mainClass": "domyself.mapstudy.MapExercise",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "MapFor",
+            "request": "launch",
+            "mainClass": "domyself.mapstudy.MapFor",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "MapMethod",
+            "request": "launch",
+            "mainClass": "domyself.mapstudy.MapMethod",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "MapSource",
+            "request": "launch",
+            "mainClass": "domyself.mapstudy.MapSource",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "Map_",
+            "request": "launch",
+            "mainClass": "domyself.mapstudy.Map_",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "LinkedHashSetExercise",
+            "request": "launch",
+            "mainClass": "domyself.hashstudy.LinkedHashSetExercise",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
             "name": "T",
             "request": "launch",
             "mainClass": "learning.date20230317.T",

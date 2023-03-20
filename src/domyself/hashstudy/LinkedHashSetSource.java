@@ -3,7 +3,7 @@ package domyself.hashstudy;
 import java.util.HashSet;
 import java.util.Set;
 
-@SuppressWarnings({ "all" })
+@SuppressWarnings({"all"})
 public class LinkedHashSetSource {
     public static void main(String[] args) {
         // 分析一下 LinkeHashSet 的底层机制
@@ -11,7 +11,7 @@ public class LinkedHashSetSource {
         set.add(new String("AA"));
         set.add(456);
         set.add(456);
-        set.add(new Customer("刘", 1001));
+        // set.add(new Customer("刘", 1001));
         set.add(123);
         set.add("HSP");
 
@@ -34,12 +34,12 @@ public class LinkedHashSetSource {
     }
 }
 
-class Customer {
-    private String name;
-    private int no;
+// class Customer {
+//     private String name;
+//     private int no;
 
-    public Customer(String name, int no) {
-        this.name = name;
-        this.no = no;
-    }
-}
+//     public Customer(String name, int no) {
+//         this.name = name;
+//         this.no = no;
+//     }
+// }
