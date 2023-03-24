@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "T",
+            "request": "launch",
+            "mainClass": "learning.GUI_date20230324.T",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "t",
+            "request": "launch",
+            "mainClass": "learning.GUI_date20230324.t",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "tttt",
+            "request": "launch",
+            "mainClass": "learning.GUI_date20230324.tttt",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "JFrameTest",
+            "request": "launch",
+            "mainClass": "learning.GUI_date20230324.JFrameTest",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "learning.GUI_date20230324.test",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
             "name": "test1",
             "request": "launch",
             "mainClass": "test1",
