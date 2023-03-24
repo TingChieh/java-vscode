@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "test1",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "TestListMap",
+            "request": "launch",
+            "mainClass": "homework.TestListMap",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "schoolOJ.test",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "StudentComparator",
+            "request": "launch",
+            "mainClass": "learning.date20230321.StudentComparator",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
+            "name": "HashTest",
+            "request": "launch",
+            "mainClass": "learning.date20230321.HashTest",
+            "projectName": "java-vscode_f2bd8aac"
+        },
+        {
+            "type": "java",
             "name": "oj1048",
             "request": "launch",
             "mainClass": "schoolOJ.oj1048",
